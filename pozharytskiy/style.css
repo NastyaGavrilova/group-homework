@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.pozh-text {
+  color: blue;
+  letter-spacing: 5px;
+}
