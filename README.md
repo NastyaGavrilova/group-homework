@@ -7,3 +7,5 @@
 # fonts folder - it is fonts for landing page, including in fonts.css
 
 # image folder - it is folder for images by landing
+
+# links are cleared
