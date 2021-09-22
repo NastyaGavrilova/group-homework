@@ -1,3 +1,3 @@
 # group-homework
 
-# Префікс pozh - pozhar.oleh25@gmail.com
+# Префікс pozh - autor Pozharytskiy Oleg, @mail pozhar.oleh25@gmail.com
